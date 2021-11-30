@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'tc2-pipes-validators';
+  placaAutoAntiga: string;
+  placaAutoMercosul: string;
+  telBr: string;
+  telUS: string;
+  nomeABNT: string;
 }
